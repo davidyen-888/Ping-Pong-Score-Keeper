@@ -1,0 +1,10 @@
+.deuce {
+    font-weight: 800;
+    background-color: rgb(219, 39, 39) !important;
+    color: whitesmoke !important;
+}
+
+.winning {
+    font-weight: 800;
+    font-size: larger !important;
+}
